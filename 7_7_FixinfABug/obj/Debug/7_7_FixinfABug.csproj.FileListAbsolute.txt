@@ -1,0 +1,6 @@
+D:\[OOP] - Object Oriented Programming\Test\7_7_FixinfABug\7_7_FixinfABug\bin\Debug\7_7_FixinfABug.exe.config
+D:\[OOP] - Object Oriented Programming\Test\7_7_FixinfABug\7_7_FixinfABug\bin\Debug\7_7_FixinfABug.exe
+D:\[OOP] - Object Oriented Programming\Test\7_7_FixinfABug\7_7_FixinfABug\bin\Debug\7_7_FixinfABug.pdb
+D:\[OOP] - Object Oriented Programming\Test\7_7_FixinfABug\7_7_FixinfABug\obj\Debug\7_7_FixinfABug.csprojAssemblyReference.cache
+D:\[OOP] - Object Oriented Programming\Test\7_7_FixinfABug\7_7_FixinfABug\obj\Debug\7_7_FixinfABug.exe
+D:\[OOP] - Object Oriented Programming\Test\7_7_FixinfABug\7_7_FixinfABug\obj\Debug\7_7_FixinfABug.pdb
